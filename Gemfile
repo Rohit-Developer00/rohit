@@ -10,7 +10,6 @@ gem "rails-controller-testing"
 
 gem "bcrypt"
 
-
 gem "bootstrap-sass"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
@@ -81,5 +80,5 @@ end
 group :production do
   gem 'pg',             '0.17.1'
   gem 'rails_12factor', '0.0.2'
-  gem 'puma',           '~>5.0'
+  # gem 'puma',           '~>5.0'
 end
