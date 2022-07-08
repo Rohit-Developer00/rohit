@@ -8,6 +8,8 @@ gem "rails", "~> 7.0.3"
 
 gem "rails-controller-testing"
 
+gem "bcrypt"
+
 
 gem "bootstrap-sass"
 
