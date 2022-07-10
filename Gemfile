@@ -10,6 +10,8 @@ gem "rails-controller-testing"
 
 gem "bcrypt"
 
+gem "faker"
+
 gem "bootstrap-sass"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
